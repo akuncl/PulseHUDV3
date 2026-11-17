@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PulseHUD</string>
+    <string name="accessibility_description">Counts view click and long-click events that Android apps expose. It cannot read every raw touch or guarantee game-wide CPS tracking.</string>
+</resources>
